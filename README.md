@@ -8,7 +8,7 @@ I am learner who is learning some languages
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/spechide/&title=Profile%20Views)
 
 ## Github Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mry0000&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=SoulHackz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ## Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mry0000&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoulHackz&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
